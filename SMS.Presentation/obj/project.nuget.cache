@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kp3NioyBfY87pAzl2cGFnBi9aMtKVVuPKfeiMrtpFBrFh+xI5twwx5lC6CPd4fYWPK37eesVt1YQeBr/tk/d8A==",
+  "success": true,
+  "projectFilePath": "D:\\CodeCamp\\BE\\AssignmentOneThreeTier\\SMS\\SMS.Presentation\\SMS.Presentation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nayeem\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EOF7at9+qN2ro0d2Khi4ynD6zQQnbyIy993wum6BHKr7SdQgj61hVUgqx+3sh+j39pFsHmdsoDNqL1RR3n8XVg==",
+  "success": true,
+  "projectFilePath": "D:\\CodeCamp\\BE\\AssignmentOneThreeTier\\SMS\\SMS.Persistence\\SMS.Persistence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nayeem\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
